@@ -4,13 +4,13 @@ Projet de recherche explorant l'utilisation du Deep Reinforcement Learning pour 
 
 ---
 
-## 🔍 Objectifs
+## Objectifs
 
-- 📊 Simuler un environnement de marché réaliste avec latence, spread, et carnet d'ordres simplifié
-- 🧠 Entraîner un agent PPO via `Stable-Baselines3` pour détecter des opportunités d’arbitrage
-- ⚔️ Comparer les performances à des stratégies naïves (Random, Buy & Hold)
-- 📈 Visualiser la reward, l’évolution du P&L et les décisions de l’agent
-- 🔄 Préparer le terrain pour un passage à des données réelles et des agents plus complexes
+- Simuler un environnement de marché réaliste avec latence, spread, et carnet d'ordres simplifié
+- Entraîner un agent PPO via `Stable-Baselines3` pour détecter des opportunités d’arbitrage
+- Comparer les performances à des stratégies naïves (Random, Buy & Hold)
+- Visualiser la reward, l’évolution du P&L et les décisions de l’agent
+- Préparer le terrain pour un passage à des données réelles et des agents plus complexes
 
 ---
 
